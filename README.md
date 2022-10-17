@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @shubham-2610
-- 👀 I’m interested to present india in ICPC
-- 🌱 I’m currently learning language c
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me shubhamohdar26@gmail.com
 
